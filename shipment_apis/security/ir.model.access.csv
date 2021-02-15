@@ -1,0 +1,16 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_shipment_shipper,shipment.shipment,model_shipment_shipper,base.group_user,1,1,1,1
+access_shipment_shipment,shipment.shipment,model_shipment_shipment_booking,base.group_user,1,1,1,1
+access_carrier_carrier,carrier.carrier,model_carrier_carrier,base.group_user,1,1,1,1
+access_city_operated,city.operated,model_city_operated,base.group_user,1,1,1,1
+access_truck_type,truck_type,model_truck_type,base.group_user,1,1,1,1
+access_truck_fleet_truck_fleet,truck_fleet,model_truck_fleet,base.group_user,1,1,1,1
+access_res_city_res_city,res_city,model_res_city,base.group_user,1,1,1,1
+access_person_info,person_info,model_person_info,base.group_user,1,1,1,1
+access_account_info,account_info,model_account_info,base.group_user,1,1,1,1
+access_contact_persons,contact_persons,model_contact_persons,base.group_user,1,1,1,1
+access_contact_person,contact_person,model_contact_person,base.group_user,1,1,1,1
+access_bank_info,bank_info,model_bank_info,base.group_user,1,1,1,1
+access_bank_type,bank_type,model_bank_type,base.group_user,1,1,1,1
+access_driver_info,driver_info,model_driver_info,base.group_user,1,1,1,1
+access_lane_city,lane_city,model_lane_city,base.group_user,1,1,1,1
